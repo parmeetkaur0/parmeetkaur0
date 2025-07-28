@@ -1,93 +1,21 @@
-<h1 align="center">👋 Hey there, I'm Parmeet Kaur</h1>
-<h3 align="center">MERN Stack Developer • AI & Machine Learning Advocate</h3>
+# 💫 About Me:
+Hi, I'm Parmeet Kaur 👋<br><br>🚀 A passionate **MERN Stack Developer** and **AI enthusiast** who loves crafting impactful web applications.<br><br>🌱 Currently learning and building:<br>- AI-powered Insight Generation Systems 🤖<br>- Scalable Backend APIs using Node.js & TypeScript ⚡<br>- Interactive UIs with React & Tailwind CSS ✨<br><br>🎯 Focused on solving real-world problems with code and contributing to open-source communities.<br><br>📫 Let's connect: kparmeet300@gmail.com | [LinkedIn](https://www.linkedin.com/in/parmeet-kaur-883324281/)<br>
 
-<p align="center">
-  <img src="[https://gprm.itsvg.in/api?username=parmeetkaur0&theme=tokyonight&show_icons=true&count_private=true](https://gprm.itsvg.in/#:~:text=changing%20any%20values-,NEXT,-2%20/%206)" alt="Overall GitHub Stats" />
-</p>
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kparmeet300@gmail.com) 
 
-### 🔍 Snapshot of My GitHub Journey
-<p align="center">
-  <img src="[https://gprm.itsvg.in/api/trophies?username=parmeetkaur0&theme=tokyonight&margin-w=10](https://github-profile-trophy.vercel.app/?username=parmeetkaur0&theme=dark&no-frame=true&no-bg=false&margin-w=4)" alt="Trophies" /><br>
-  <img src="[https://gprm.itsvg.in/api/stats/streak?username=parmeetkaur0&theme=tokyonight](https://gprm.itsvg.in/#:~:text=changing%20any%20values-,NEXT,-2%20/%206)" alt="Streak Stats" /><br>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parmeetkaur0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=parmeetkaur0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmeetkaur0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 🚀 Spotlight Projects
-| Project | Description |
-|--------|-------------|
-| **Crop Recommendation System** | Leveraged ML to recommend optimal crops based on soil and weather data. Introduced predictive AI and visualization. |
-| **Netflix Clone** | Full-stack React‑Node video streaming UI with smooth routing and state‑management. |
-| **DriveOn** | Built a ride‑booking platform integrating Google Maps, real‑time searches, driver‑rider matching, payments, and notifications. |
-| **Wine Quality Insights** | Developed an AI‑powered insights portal: visualized patterns, predicted quality from physicochemical features. |
-
-*(Make sure these repo titles & links align with what's on your GitHub.)*
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=parmeetkaur0&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=parmeetkaur0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,typescript,javascript,mongodb,java,html,css,aws" alt="Tech Stack Icons"/>
-</p>
-
----
-
-### 📚 Current Focus & Learning Path
-- **AI & LLMs**: Building insight generation systems using Python, PyTorch, Flask, and LLM integrations.
-- **Cloud & Backend**: Building RESTful and GraphQL microservices using Node.js, Express, TypeScript, and deploying on AWS/GCP.
-- **Modern Front‑end**: Exploring Next.js, TypeScript, responsive design, and progressive web apps.
-- **Data Structures & Algorithms**: Actively solving problems on LeetCode and honing competitive problem-solving skills.
-
----
-
-### 🌍 Open Source Engagement & Growth
-- Regularly contribute to open-source libraries—bug fixes, feature additions, and documentation improvements.
-- Broadening exposure through code reviews, tech discussions, and collaborative projects on GitHub.
-- Sharpening DevOps and CI/CD knowledge (GitHub Actions, Docker, deployments).
-
----
-
-### 🧠 Fun Facts
-- ⚡ Brew DevOps pipelines in your coffee: I broke into Terraform and Docker this year.
-- 🎯 Consistency over perfection—closed a streak of 120+ days in GitHub contributions!
-- 🤝 I mentor juniors in open-source contributions and project planning.
-
----
-
-### 📫 Let’s Collaborate
-<p align="left">
-  <a href="https://github.com/parmeetkaur0"><img src="https://img.shields.io/badge/GitHub-%40parmeetkaur0-black?logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/parmeet-kaur-7b505a1b3"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:parmeetkaur.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-email-red?logo=gmail" alt="Gmail"/></a>
-</p>
-
----
-
-### ✨ Why This README Stands Out
-- **Live GPRM stats**: Always up-to-date GitHub performance visuals.
-- **Curated project showcase**: Highlights your best works with context.
-- **Tech icons**: Clear presentation of your development stack.
-- **Learning highlights**: Signals continuous growth and readiness for new challenges.
-- **Open-source activity**: Underlines community engagement and collaboration.
-- **Contact section**: Makes connecting seamless.
-
----
-
-### ✅ Setup Instructions
-1. Create a **new public repo** exactly named `parmeetkaur0`.
-2. Add a `README.md` file (or update the existing one).
-3. Copy-paste the above Markdown template.
-4. Replace placeholder links/usernames where relevant.
-5. Commit → Push. GitHub auto-displays it on your profile.
-
----
-
-### 🎨 What’s Next?
-- Want a **dark-mode themed version** with gradient badges and cool animations?
-- Need a tailored README for use cases like AI portfolio, freelance developer showcase, or hackathon resume?
-- Want custom badges or dynamic counters (like blog posts, tweets, or Discord stats)?
-
-Let me know which direction you’d like to amplify or any custom tweaks you want—I’m happy to iterate!
-::contentReference[oaicite:0]{index=0}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
