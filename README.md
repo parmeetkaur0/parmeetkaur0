@@ -2,16 +2,15 @@
 <h3 align="center">MERN Stack Developer • AI & Machine Learning Advocate</h3>
 
 <p align="center">
-  <img src="https://gprm.itsvg.in/api?username=parmeetkaur0&theme=tokyonight&show_icons=true&count_private=true" alt="Overall GitHub Stats" />
+  <img src="[https://gprm.itsvg.in/api?username=parmeetkaur0&theme=tokyonight&show_icons=true&count_private=true](https://gprm.itsvg.in/#:~:text=changing%20any%20values-,NEXT,-2%20/%206)" alt="Overall GitHub Stats" />
 </p>
 
 ---
 
 ### 🔍 Snapshot of My GitHub Journey
 <p align="center">
-  <img src="https://gprm.itsvg.in/api/trophies?username=parmeetkaur0&theme=tokyonight&margin-w=10" alt="Trophies" /><br>
-  <img src="https://gprm.itsvg.in/api/stats/streak?username=parmeetkaur0&theme=tokyonight" alt="Streak Stats" /><br>
-  <img src="https://gprm.itsvg.in/api/stats/calendar?username=parmeetkaur0&color=79C0FF&border_radius=10" alt="Contribution Calendar" />
+  <img src="[https://gprm.itsvg.in/api/trophies?username=parmeetkaur0&theme=tokyonight&margin-w=10](https://github-profile-trophy.vercel.app/?username=parmeetkaur0&theme=dark&no-frame=true&no-bg=false&margin-w=4)" alt="Trophies" /><br>
+  <img src="[https://gprm.itsvg.in/api/stats/streak?username=parmeetkaur0&theme=tokyonight](https://gprm.itsvg.in/#:~:text=changing%20any%20values-,NEXT,-2%20/%206)" alt="Streak Stats" /><br>
 </p>
 
 ---
